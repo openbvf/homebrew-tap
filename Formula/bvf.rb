@@ -1,7 +1,7 @@
 class Bvf < Formula
   desc "Command-line tool for encrypting and decrypting files using the bvf format"
   homepage "https://github.com/openbvf/bvf"
-  version "0.2.1"
+  version "0.2.2"
 
   depends_on :macos
   depends_on arch: :arm64
